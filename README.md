@@ -1,1 +1,1 @@
-# java_specfication_ru
+# Спецификации JAVA на русском языке

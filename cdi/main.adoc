@@ -1,0 +1,25 @@
+= Внедрение контекстов и зависимостей для Java
+JSR 365
+:sectanchors:
+:doctype: book
+:license: Apache 2
+:source-highlighter: coderay
+:toc: macro
+:toc-title: Оглавление
+:toclevels: 6
+:sectnumlevels: 4
+ifdef::backend-pdf[]
+:pagenums:
+endif::[]
+
+toc::[]
+
+include::praface/main.adoc[]
+
+include::introduction/main.adoc[]
+
+include::part_1/main.adoc[]
+
+include::part_2/main.adoc[]
+
+include::part_3/main.adoc[]
