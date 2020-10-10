@@ -1,0 +1,3 @@
+= Спецификации JAVA на русском языке
+
+<<cdi/main.adoc#cdi_caption, Спецификация CDI>>

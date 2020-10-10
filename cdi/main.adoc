@@ -1,3 +1,4 @@
+[#cdi_caption]
 = Внедрение контекстов и зависимостей для Java
 JSR 365
 :sectanchors:
