@@ -1,5 +1,5 @@
 = Спецификации JAVA на русском языке
 
-Перевод спецификаци https://docs.jboss.org/cdi/spec/2.0/cdi-spec.pdf)[CDI 2.0].
+Перевод спецификаци https://docs.jboss.org/cdi/spec/2.0/cdi-spec.pdf[CDI 2.0].
 
-<<cdi/main.adoc#cdi_caption, Спецификация CDI>>
+* <<cdi/main.adoc#cdi_caption, Спецификация CDI>>
